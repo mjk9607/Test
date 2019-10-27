@@ -5,8 +5,7 @@ public class Test {
 
 		System.out.println("Hello Github Master Commit");
 
-		System.out.println("Hello branch patch02");
-
+		System.out.println("Hello fatch05");
 
  
 	}
