@@ -3,7 +3,7 @@ public class Test {
 
 	public static void main(String[] args) {
 
-		System.out.println("First Confllct Commit!");
+		System.out.println("First Conflllct Commit!");
 
 
 
